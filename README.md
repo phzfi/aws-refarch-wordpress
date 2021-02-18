@@ -36,6 +36,7 @@ You can launch this CloudFormation stack, using your account, in the following A
 | --- | --- | --- 
 | eu-west-1 |EU (Ireland)| [![cloudformation-launch-stack](images/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/new?stackName=WordPress&templateURL=https://phzawstraining.s3.eu-north-1.amazonaws.com/aws-wordpress/templates/aws-refarch-wordpress-master-newvpc.yaml) |
 | eu-central-1 |EU (Frankfurt)| [![cloudformation-launch-stack](images/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=eu-central-1#/stacks/new?stackName=WordPress&templateURL=https://phzawstraining.s3.eu-north-1.amazonaws.com/aws-wordpress/templates/aws-refarch-wordpress-master-newvpc.yaml) |
+| eu-north-1 |EU (Stockholm)| [![cloudformation-launch-stack](images/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=eu-north-1#/stacks/new?stackName=WordPress&templateURL=https://phzawstraining.s3.eu-north-1.amazonaws.com/aws-wordpress/templates/aws-refarch-wordpress-master-newvpc.yaml) |
 
 #### Select WordPress version
 
